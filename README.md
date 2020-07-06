@@ -4,4 +4,4 @@ Javascrip slider project, with 4 slides, 3 pictures with heading and links and 1
 
 # Live
 
-[Live]()
+[Live](https://stankovics.github.io/JSslider)
